@@ -1,6 +1,6 @@
 # merge-together-
 this
 is
-stupid
+really
 cool
 text
