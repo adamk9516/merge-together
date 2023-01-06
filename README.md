@@ -1,5 +1,5 @@
 # merge-together-
-this
+THAT
 is
 really
 cool
